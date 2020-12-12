@@ -1,0 +1,36 @@
+body{margin:0; max-height:100%; max-width:100%;}
+.header_container{max-width:100%;}
+.header{background-color:#FFA500; jusify-content:space-between; width:100%; height:70px; padding:5px; position:fixed; top:0;}
+.nav{display:flex; float:right;}
+a.navbuttons{text-align:right;display:inline-block; position:top-right; height:30px;
+line-height:30px; padding-left:14px; padding-right:14px; margin:0px; font-size:20px; font-family:"fa-regular-400"; text-decoration:none;}
+a.navbuttons:hover{background-color:black; color:orange; text-decoration:none; cursor:pointer;}
+.vineware{font-size:20px; font-family:"Times New Roman"; padding-bottom:0px;}
+.images{max-width:100%; height:auto;}
+.pictures{width:100%;}
+h1{text-align:center; font-family:"fa-brands-400"; font-size:50px; color:#000000;}
+h2{text-align:center; font-family:"fa-regular-400"; font-size:50px; color:#000000;}
+p{font-family:"fa-regular-400"; font-size:20px; text-align:center;}
+.wrapper1{width:900px; height:300px; margin-left:auto; margin-right:auto; border:0px;}
+.wrapper2{max-width:100%; height:650px; background-color:#A9A9A9;}
+.subwrapper{display:flex;}
+.subwrapper1{border:1px; background-color:#FFFFFF; width:300px; height:200px; margin-left:30px; margin-right:100px; float:left;}
+.textwrapper{text-align:center;}
+.subwrapper2{border:1px; background-color:#FFFFFF; width:300px; height:200px; margin-top:100px; margin-left:30px; margin-right:100px; float:left;}
+.Quote{max-width:100%; margin-top:80px;}
+.quotepics{animation-name: waterfill 2s linear;}
+.Technologies{max-width:100%; height:650px; background-color:#FFFFFF;}
+.technologypics1{display:flex;}
+.technologypics2{border:1px; background-color:#FFFFFF; width:200px; height:200px; margin-left:50px; margin-right:0px; float:left;
+transition: width 1s, height 1s;}
+.technologypics2:hover{width:300px; height:300px;}
+.technologypics3{border:1px; background-color:#FFFFFF; width:200px; height:200px; margin-left:50px; margin-right:0px; float:left;
+transition: width 1s, height 1s;}
+.technologypics3:hover{width:300px; height:300px;}
+h3{text-align:center; font-family:"fa-regular-400"; font-size:50px; color:#000000;}
+.wrapper3{max-width:100%; height:300px; background-color:#FFA500;}
+.subwrapper3{display:flex;}
+.subwrapper4{border:1px; margin-left:50px; margin-right:100px; float:left;}
+h4{margin-left:30px;}
+.orange{color:orange;}
+
